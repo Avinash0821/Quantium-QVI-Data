@@ -1,2 +1,23 @@
-# Quantium-QVI-Data
-the Category Manager for Chips, who wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region.  The insights from your analysis will feed into the supermarket’s strategic plan for the chip category in the next half year.
+
+## 🛠️ Tools Used
+
+- Python (Pandas, Matplotlib, Seaborn)
+- Tableau / Power BI (optional)
+- Excel (for exploratory analysis)
+- PowerPoint (for final insights presentation)
+
+## 🎓 Program Outcomes
+
+✔ Strengthened ability to analyze large retail datasets  
+✔ Developed actionable insights aligned with business goals  
+✔ Improved communication of technical findings to non-technical stakeholders  
+
+---
+
+✅ **Completed:** July 2025  
+🏢 **Company:** Quantium (Simulated)  
+🎓 **Hosted on:** Forage  
+
+---
+
+*This simulation provided real-world insight into the daily responsibilities of a data analyst at Quantium and helped sharpen my skills in data analysis, visualization, and business communication.*
